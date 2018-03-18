@@ -10,3 +10,8 @@ html{
   margin: 3rem;
   border-radius: 4px;
 }
+@media (min-width: 600px){
+  .counterText{
+    font-size: 1.2em;
+  }
+}
